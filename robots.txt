@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scale-ba.vercel.app/sitemap.xml
